@@ -153,7 +153,7 @@ model.fit(train_data, validation_data=val_data, epochs=20)
 ---
 
 ### **Step 7: Results and Visualizations**
-- Achieved ~78% accuracy on the test dataset.
+- Achieved ~64% accuracy on the test dataset.
 - Visualized accuracy vs. epochs and confusion matrix for predictions.
 
 ---
@@ -167,6 +167,6 @@ model.fit(train_data, validation_data=val_data, epochs=20)
 
 ## **Contact**
 For questions or issues, contact:
-- **Email**: [your-email@example.com]
-- **GitHub**: [GitHub Repository Link]
+- **Email**: mittapalliakhil12@gmail.com
+- **GitHub**: https://github.com/AkhilMittapalli/Big-Data-Project-on-Image-Classification-using-CNN
 
